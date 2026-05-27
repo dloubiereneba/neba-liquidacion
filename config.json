@@ -1,0 +1,9 @@
+{
+  "mdo": [
+    { "tipo": "MENOR",           "val": 44000 },
+    { "tipo": "MAYOR",           "val": 65000 },
+    { "tipo": "HORNO ELECTRICO", "val": 27000 }
+  ],
+  "kmVal": 560,
+  "prods": ["HELADERA", "FREEZER", "HORNO ELECTRICO"]
+}
